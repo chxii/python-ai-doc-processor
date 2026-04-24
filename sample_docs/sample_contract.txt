@@ -1,0 +1,37 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into as of March 1, 2026, by and between:
+
+Client: Northgate Solutions Inc., a Delaware corporation with its principal place of business at 450 Market Street, Suite 800, San Francisco, CA 94105 ("Client"), and
+
+Service Provider: Meridian Digital LLC, a California limited liability company with its principal place of business at 1200 Tech Boulevard, Austin, TX 78701 ("Provider").
+
+1. SERVICES
+Provider agrees to design, develop, and deliver a custom data analytics dashboard for Client's internal operations team. The scope of work includes requirements gathering, UI/UX design, backend API development, testing, and deployment to Client's cloud infrastructure. All deliverables are described in Exhibit A attached hereto.
+
+2. TERM
+This Agreement shall commence on March 1, 2026, and continue through August 31, 2026, unless earlier terminated in accordance with Section 6.
+
+3. PAYMENT TERMS
+Client shall pay Provider a fixed project fee of $48,000 USD, payable in three installments: $16,000 upon execution of this Agreement, $16,000 upon delivery of the design prototype (estimated April 15, 2026), and $16,000 upon final delivery and acceptance. Invoices are due within 15 days of receipt. Late payments accrue interest at 1.5% per month.
+
+4. KEY OBLIGATIONS
+Provider shall: deliver all milestones on schedule; assign a dedicated project manager; provide weekly status reports; and ensure all code is original and free of third-party license conflicts. Client shall: provide timely feedback within 5 business days of each deliverable; grant necessary system access; and designate a single point of contact for approvals.
+
+5. INTELLECTUAL PROPERTY
+Upon receipt of full payment, all work product, source code, and documentation shall become the exclusive property of Client. Provider retains the right to reference the project in its portfolio.
+
+6. TERMINATION
+Either party may terminate this Agreement with 30 days written notice. Client may terminate immediately for cause if Provider materially breaches this Agreement and fails to cure within 10 days of written notice. In the event of termination, Client shall pay for all work completed through the termination date.
+
+7. CONFIDENTIALITY
+Both parties agree to keep confidential all non-public information disclosed during the engagement and not to disclose such information to third parties without prior written consent.
+
+8. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of California.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+Northgate Solutions Inc.                Meridian Digital LLC
+By: Sarah Chen, CEO                     By: Marcus Webb, Managing Partner
+Date: March 1, 2026                     Date: March 1, 2026

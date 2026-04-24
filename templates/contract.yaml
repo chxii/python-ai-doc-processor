@@ -1,0 +1,13 @@
+name: contract
+description: Legal service agreement / contract document
+fields:
+  - name: parties
+    description: Names and roles of all parties involved (e.g. client, service provider)
+  - name: effective_date
+    description: The date the contract becomes effective
+  - name: payment_terms
+    description: Payment amount, schedule, and method
+  - name: key_obligations
+    description: Main responsibilities and deliverables for each party
+  - name: termination_clause
+    description: Conditions under which the contract may be terminated

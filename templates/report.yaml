@@ -1,0 +1,13 @@
+name: report
+description: Business or project report document
+fields:
+  - name: executive_summary
+    description: High-level overview of the report's purpose and conclusions
+  - name: key_findings
+    description: Main discoveries, results, or observations from the reporting period
+  - name: metrics
+    description: Quantitative data points, KPIs, or performance numbers mentioned
+  - name: action_items
+    description: Recommended next steps or tasks assigned to teams or individuals
+  - name: risks
+    description: Identified risks, blockers, or concerns raised in the report

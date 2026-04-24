@@ -1,0 +1,35 @@
+{
+  "parties": {
+    "client": "Northgate Solutions Inc., a Delaware corporation, 450 Market Street, Suite 800, San Francisco, CA 94105",
+    "service_provider": "Meridian Digital LLC, a California limited liability company, 1200 Tech Boulevard, Austin, TX 78701"
+  },
+  "effective_date": "March 1, 2026",
+  "payment_terms": {
+    "total_fee": "$48,000 USD",
+    "schedule": [
+      {"milestone": "Execution of Agreement", "amount": "$16,000", "due": "March 1, 2026"},
+      {"milestone": "Delivery of design prototype", "amount": "$16,000", "due": "April 15, 2026 (estimated)"},
+      {"milestone": "Final delivery and acceptance", "amount": "$16,000", "due": "Upon completion"}
+    ],
+    "payment_due": "Within 15 days of invoice receipt",
+    "late_interest": "1.5% per month"
+  },
+  "key_obligations": {
+    "provider": [
+      "Deliver all milestones on schedule",
+      "Assign a dedicated project manager",
+      "Provide weekly status reports",
+      "Ensure all code is original and free of third-party license conflicts"
+    ],
+    "client": [
+      "Provide timely feedback within 5 business days of each deliverable",
+      "Grant necessary system access",
+      "Designate a single point of contact for approvals"
+    ]
+  },
+  "termination_clause": {
+    "standard": "Either party may terminate with 30 days written notice",
+    "for_cause": "Client may terminate immediately if Provider materially breaches and fails to cure within 10 days of written notice",
+    "payment_on_termination": "Client shall pay for all work completed through the termination date"
+  }
+}

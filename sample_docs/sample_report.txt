@@ -1,0 +1,32 @@
+QUARTERLY BUSINESS REVIEW — Q3 2025
+Prepared by: Strategy & Operations Team
+Date: October 8, 2025
+Distribution: Executive Leadership, Department Heads
+
+EXECUTIVE SUMMARY
+Q3 2025 delivered mixed results against our annual targets. Revenue grew 12% year-over-year to $4.7M, exceeding the $4.4M forecast, driven primarily by strong performance in the Enterprise segment. However, gross margin contracted by 2.1 percentage points due to elevated cloud infrastructure costs and a one-time vendor migration expense. Customer acquisition slowed in the SMB segment, requiring a strategic review of our go-to-market approach heading into Q4.
+
+KEY FINDINGS
+Enterprise segment revenue reached $2.9M, up 18% YoY, with three new Fortune 500 logos added. SMB segment underperformed at $1.8M versus a $2.1M target, a 14% miss. Monthly Recurring Revenue (MRR) closed at $1.56M, up from $1.41M in Q2. Net Revenue Retention (NRR) held at 108%, indicating healthy expansion within the existing customer base. Customer churn increased slightly to 2.3% from 1.9% in Q2, concentrated in SMB accounts under $5K ARR. The product team shipped 14 feature releases, including the highly anticipated bulk export module and the redesigned onboarding flow, which reduced time-to-value from 11 days to 6 days.
+
+METRICS
+- Total Revenue: $4.7M (Q3 2025) vs. $4.2M (Q3 2024), +12% YoY
+- Gross Margin: 61.4% vs. 63.5% prior quarter
+- MRR: $1.56M (+10.6% QoQ)
+- NRR: 108%
+- Customer Churn: 2.3%
+- New Customers Acquired: 47 (Enterprise: 12, SMB: 35)
+- Support Ticket Volume: 1,840 (-8% QoQ, improvement)
+- Average Response Time: 3.2 hours (target: <4 hours, met)
+
+ACTION ITEMS
+1. Sales: Launch targeted win-back campaign for churned SMB accounts by November 1. Owner: VP Sales.
+2. Marketing: Revise SMB messaging and pricing page based on exit survey data. Owner: CMO. Due: October 31.
+3. Engineering: Complete cloud cost optimization sprint to recover 1.5pp of gross margin by end of Q4. Owner: CTO.
+4. Customer Success: Implement proactive health scoring for accounts under $5K ARR to flag churn risk 60 days in advance. Owner: VP Customer Success. Due: November 15.
+5. Finance: Model three pricing scenarios for SMB tier restructuring and present to leadership by October 22.
+
+RISKS
+- Cloud infrastructure costs remain elevated; if the optimization sprint slips, Q4 margin targets are at risk.
+- SMB pipeline coverage is currently at 1.8x, below the 2.5x minimum threshold for confidence in Q4 targets.
+- A key enterprise renewal ($340K ARR) is at risk due to a competitor evaluation; escalation plan in progress.

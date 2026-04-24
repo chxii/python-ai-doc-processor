@@ -1,0 +1,13 @@
+Here is a structured summary of the Q3 2025 Business Review:
+
+- **Period:** Q3 2025 (July – September 2025), report dated October 8, 2025
+- **Revenue:** $4.7M total, up 12% year-over-year, exceeding the $4.4M forecast
+  - Enterprise segment: $2.9M (+18% YoY), 3 new Fortune 500 customers added
+  - SMB segment: $1.8M, missed $2.1M target by 14%
+- **Profitability:** Gross margin contracted to 61.4% from 63.5% in Q2, driven by elevated cloud infrastructure costs and a one-time vendor migration expense
+- **Retention:** Net Revenue Retention (NRR) at 108%; MRR grew to $1.56M (+10.6% QoQ)
+- **Churn:** Customer churn rose to 2.3% from 1.9%, concentrated in SMB accounts under $5K ARR
+- **Product:** 14 feature releases shipped; onboarding time-to-value improved from 11 days to 6 days
+- **Support:** Ticket volume down 8% QoQ; average response time 3.2 hours (within 4-hour target)
+- **Key Risks:** Cloud cost overruns threatening Q4 margin targets; SMB pipeline coverage at 1.8x (below 2.5x threshold); a $340K enterprise renewal at risk due to competitor evaluation
+- **Priority Actions:** SMB win-back campaign (Nov 1), cloud cost optimization sprint (Q4), proactive churn health scoring for SMB accounts (Nov 15), pricing scenario modeling (Oct 22)

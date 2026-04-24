@@ -1,0 +1,12 @@
+Here is a structured summary of the Service Agreement:
+
+- **Parties:** Northgate Solutions Inc. (Client) and Meridian Digital LLC (Provider)
+- **Purpose:** Provider will design and deliver a custom data analytics dashboard for Client's internal operations team
+- **Term:** March 1, 2026 through August 31, 2026 (6 months)
+- **Project Fee:** $48,000 USD, paid in three equal installments of $16,000 each tied to project milestones
+- **Key Provider Obligations:** Deliver milestones on schedule, assign a dedicated project manager, provide weekly status reports, and ensure code is free of license conflicts
+- **Key Client Obligations:** Provide feedback within 5 business days, grant system access, and designate a single point of contact
+- **IP Ownership:** All work product transfers to Client upon full payment; Provider retains portfolio reference rights
+- **Termination:** Either party may terminate with 30 days written notice; Client may terminate immediately for material breach uncured within 10 days
+- **Confidentiality:** Both parties must protect non-public information shared during the engagement
+- **Governing Law:** State of California
